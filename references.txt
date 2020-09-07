@@ -1,0 +1,6 @@
+Error Codes Linux - https://mariadb.com/kb/en/operating-system-error-codes/
+Usb Error Codes Linux - https://www.kernel.org/doc/html/latest/driver-api/usb/error-codes.html
+Linux Input Drivers - https://www.kernel.org/doc/Documentation/input/input-programming.txt
+Linux USB Drivers - https://kernel.readthedocs.io/en/sphinx-samples/writing_usb_driver.html
+Linux Character Drivers - https://linux-kernel-labs.github.io/refs/heads/master/labs/device_drivers.html
+Linux Memory Allocation Guide - https://www.kernel.org/doc/html/v4.20/core-api/memory-allocation.html
